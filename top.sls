@@ -1,0 +1,4 @@
+bcm-prod:
+  '*':
+    - beats
+
