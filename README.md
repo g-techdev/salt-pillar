@@ -1,0 +1,2 @@
+# salt-pillar
+Pillar repo
